@@ -1,6 +1,6 @@
 ﻿# NestedScroll-JetpackCompose
 
-2 different solutions to create NestedScroll vertical list NestedInLazyColumn(), NestedInColumn() is a simple program written in Jetpack Compose
+2 different solutions(NestedInLazyColumn(), NestedInColumn()) to create NestedScroll vertical list is a simple program written in JetpackCompose
 
 **NestedScroll-JetpackCompose**
 
